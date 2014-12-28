@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the off_performance_feature feature.
- */
-
-include_once 'off_performance_feature.features.inc';

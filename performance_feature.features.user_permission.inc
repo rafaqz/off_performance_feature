@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * off_performance_feature.features.user_permission.inc
+ * performance_feature.features.user_permission.inc
  */
 
 /**
  * Implements hook_user_default_permissions().
  */
-function off_performance_feature_user_default_permissions() {
+function performance_feature_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'administer memcache storage'.

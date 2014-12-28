@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * off_performance_feature.features.inc
+ * performance_feature.features.inc
  */
 
 /**
  * Implements hook_ctools_plugin_api().
  */
-function off_performance_feature_ctools_plugin_api($module = NULL, $api = NULL) {
+function performance_feature_ctools_plugin_api($module = NULL, $api = NULL) {
   if ($module == "strongarm" && $api == "strongarm") {
     return array("version" => "1");
   }
