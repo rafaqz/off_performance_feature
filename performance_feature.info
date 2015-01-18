@@ -1,4 +1,4 @@
-name = performance_feature
+name = Performance Feature
 description = Performance modules and settings.
 core = 7.x
 package = Features
