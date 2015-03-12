@@ -55,7 +55,5 @@ features[variable][] = boost_lifetime_min_application/xml
 features[variable][] = boost_lifetime_min_text/html
 features[variable][] = boost_lifetime_min_text/javascript
 features[variable][] = boost_lifetime_min_text/xml
-features[variable][] = drupal_css_cache_files
-features[variable][] = drupal_js_cache_files
 features[variable][] = entitycache_enabled
 features[variable][] = memcache_storage_wildcards
